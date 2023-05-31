@@ -24,6 +24,8 @@ This project aims to detect whether a person is wearing a face mask in real-time
 
 The model has been trained on a custom face mask dataset consisting of images with and without face masks. Unfortunately, we are unable to provide the dataset directly, but you can use your own dataset or find open-source datasets online for training the model.
 
+Dataset Link:https://drive.google.com/drive/folders/1d19YirNytdl11NkejMnCVROp3gFwkK0o?usp=sharing
+
 ## Training
 
 To train the face mask detection model, follow these steps:
